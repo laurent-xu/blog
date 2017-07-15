@@ -9,7 +9,7 @@ url: https://notmyfoo.io
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
